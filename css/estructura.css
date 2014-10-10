@@ -1,0 +1,17 @@
+#wrap{background-color: #f1f1f1; padding: 0px;}
+#sec1{ background-color: #f00;}
+#sec2{ background-color: #0f0;}
+#sec2 article:nth-of-type(1){background-color: #f00; min-height: 200px;}
+#sec2 article:nth-of-type(2){background-color: #ff0; min-height: 200px;}
+#sec2 article:nth-of-type(3){background-color: #00f; min-height: 200px;}
+
+#sec3{ background-color: #00f;}
+#sec3 article:nth-of-type(1){background-color: #0f0; min-height: 200px;}
+#sec3 article:nth-of-type(2){background-color: #00f; min-height: 200px;}
+#sec3 article:nth-of-type(3){background-color: #f00; min-height: 200px;}
+
+.sep{height: 20px; width: 100%; background-color: #000; clear: both;}
+
+#carousel-example-generic img{ width: 100%; }
+
+#wrap-slide{ float: left; width: 100%; margin-top: 0px;}

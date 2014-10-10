@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'HelvNeueBoldCond';
+    src: url('../fuentes/helv_neue_boldcond/HelvNeueBoldCond.eot');
+    src: url('../fuentes/helv_neue_boldcond/HelvNeueBoldCond.eot?#iefix') format('embedded-opentype'),
+         url('../fuentes/helv_neue_boldcond/HelvNeueBoldCond.woff') format('woff'),
+         url('../fuentes/helv_neue_boldcond/HelvNeueBoldCond.ttf') format('truetype'),
+         url('../fuentes/helv_neue_boldcond/HelvNeueBoldCond.svg#HelvNeueBoldCond') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*
+@font-face {
+    font-family: 'Bebas';
+    src: url('../fuentes/bebas/Bebas.eot');
+    src: url('../fuentes/bebas/Bebas.eot?#iefix') format('embedded-opentype'),
+         url('../fuentes/bebas/Bebas.woff') format('woff'),
+         url('../fuentes/bebas/Bebas.ttf') format('truetype'),
+         url('../fuentes/bebas/Bebas.svg#Bebas') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+*/
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('../fuentes/bebas/BebasNeue-webfont.eot');
+    src: url('../fuentes/bebas/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fuentes/bebas/BebasNeue-webfont.woff') format('woff'),
+         url('../fuentes/bebas/BebasNeue-webfont.ttf') format('truetype'),
+         url('../fuentes/bebas/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'HelvNeue55';
+    src: url('../fuentes/HelvNeue55/HelvNeue55.eot');
+    src: url('../fuentes/HelvNeue55/HelvNeue55.eot?#iefix') format('embedded-opentype'),
+         url('../fuentes/HelvNeue55/HelvNeue55.woff') format('woff'),
+         url('../fuentes/HelvNeue55/HelvNeue55.ttf') format('truetype'),
+         url('../fuentes/HelvNeue55/HelvNeue55.svg#HelvNeue55') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
