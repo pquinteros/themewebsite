@@ -3,10 +3,6 @@
     E-mail: pquinteros@gmail.com
     Twitter: @pquinteros
     Location: Santa Fe, Argentina
-	
-	Design & Front-end & (...): Damián Dipatricio
-    E-mail: dami@22-10-78.com
-    Location: Córdoba, Argentina
                    
 /* SITE */
     Last update: 2012/09/04
